@@ -1,6 +1,6 @@
 # TravelExpert
 A simple expert system made using PROLOG
-HW8B Summary
+
 The Expert System is designed to help you travel within California using public transportation. Your options are either using the airplane, bus, or train.
 Facts have been organized by method of transportation. The connections between cities were pulled from real-world sources. For travel by airplane, we looked at regular airport schedules
 And accordingly added those as possible connections. For travel by bus, we looked at greyhound schedules and for the train; Amtrak. There are comments in the program that have neatly divided the facts into 
